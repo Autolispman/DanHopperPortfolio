@@ -169,7 +169,7 @@ textarea {
 
 .divContentPort {
     background-color: #D8D8D8;
-    margin: 30px 30px 100px 20px;
+    margin: 30px 30px 100px 0px;
     /* height: 900px; */
     /* display: flex; */
     position: absolute;
