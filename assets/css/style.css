@@ -40,6 +40,10 @@ textarea {
    
 }
 
+.myContainer {
+    padding-bottom: 50px;
+}
+
 .navCustom {
     background-color: #D8D8D8;
 }
